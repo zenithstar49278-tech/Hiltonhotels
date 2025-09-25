@@ -1,0 +1,16 @@
+[03-Sep-2025 15:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php on line 33
+[03-Sep-2025 15:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php on line 33
+[09-Sep-2025 15:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php on line 36
+[09-Sep-2025 15:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/Hiltonhotels/index.php on line 36
